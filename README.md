@@ -91,6 +91,7 @@ git clone https://github.com/seu-usuario/Desafio-Tecnico-GFT-DIO.git
 cd Desafio-Tecnico-GFT-DIO/src
 
 ```
+2. Compile e execute os programas:
 Desafio 1
 ``` 
 
