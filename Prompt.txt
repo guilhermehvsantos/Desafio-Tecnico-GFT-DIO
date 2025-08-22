@@ -1,0 +1,14 @@
+Para criar um prompt para o chatgpt eu colocaria o máximo de informações possíveis, detalhes, exemplos e possíveis formatos de respostas. Neste caso como já possuo o enunciado daria um contexto e depois abriria aspas e coloria o enunciado. 
+
+Exemplo:
+
+Preciso criar um projeto simples em java de um sistema de notas escolares. Levando em conta os pilares de POO e lógica de programação aqui está o enunciado "Você precisa criar um sistema simples em Java ou C# para gerenciar
+notas de alunos.
+O sistema deve:
+
+1. Ter uma classe Aluno com propriedades Nome e Lista de Notas.
+2. Ter uma classe Boletim que calcule a média das notas.
+3. Permitir adicionar notas a um aluno e exibir sua média.
+4. (Desafio extra) – Exibir".
+
+Com esse prompt normalmente consigo resultados satisfatórios com o chatgpt
